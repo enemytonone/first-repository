@@ -1,4 +1,7 @@
 this is my first git file
+<<<<<<< HEAD
 added details
 hariharan
 
+=======
+>>>>>>> parent of 5f48da6... modified file1 1st time
